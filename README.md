@@ -1,0 +1,1 @@
+# comp413-g1-wearable-electronic-speech-aid-for-smart-home
